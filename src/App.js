@@ -15,7 +15,6 @@ import Pie from "./scenes/pie";
 import Line from "./scenes/line";
 import Geography from "./scenes/geography";
 
-// hi
 
 
 
